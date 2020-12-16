@@ -3,12 +3,12 @@ Data Encryption Standard: Pure Python Implementation
 
 ## How to use
 Create a object of the DES class by simply passing the key.\
-    <span style="color:blue">des = DES(key)</span>
+&nbsp &nbsp **des = DES(key)**
 
 To encrypt call the encrypt() function.\
-    <span style="color:blue">ciphertext = des.encrypt(plaintext)</span>
+&nbsp &nbsp **ciphertext = des.encrypt(plaintext)**
 
 To decrypt call the decrypt() function.\
-    <span style="color:blue">plaintext = des.decrypt(ciphertext)</span>
+&nbsp &nbsp **plaintext = des.decrypt(ciphertext)**
     
 See the notebook for example.
