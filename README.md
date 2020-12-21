@@ -3,7 +3,7 @@ Data Encryption Standard: Pure Python Implementation
 
 ## How to use
 import the class.\
-    **from OPU_DES import DES**
+    **from ODES import DES**
 
 Create a object of the DES class by simply passing the key.\
     **des = DES(key)**
